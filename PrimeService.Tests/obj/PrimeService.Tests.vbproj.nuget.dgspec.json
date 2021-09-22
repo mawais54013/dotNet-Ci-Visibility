@@ -1,0 +1,133 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService.Tests/PrimeService.Tests.vbproj": {}
+  },
+  "projects": {
+    "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService.Tests/PrimeService.Tests.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService.Tests/PrimeService.Tests.vbproj",
+        "projectName": "PrimeService.Tests",
+        "projectPath": "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService.Tests/PrimeService.Tests.vbproj",
+        "packagesPath": "/Users/muhammadawais/.nuget/packages/",
+        "outputPath": "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadawais/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/PrimeService.vbproj": {
+                "projectPath": "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/PrimeService.vbproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/PrimeService.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/PrimeService.vbproj",
+        "projectName": "PrimeService",
+        "projectPath": "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/PrimeService.vbproj",
+        "packagesPath": "/Users/muhammadawais/.nuget/packages/",
+        "outputPath": "/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/muhammadawais/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

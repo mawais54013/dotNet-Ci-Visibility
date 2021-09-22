@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = PrimeService.Tests
+build_property.ProjectDir = /Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService.Tests/

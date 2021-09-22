@@ -1,0 +1,10 @@
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/bin/Debug/netstandard2.0/PrimeService.deps.json
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/bin/Debug/netstandard2.0/PrimeService.dll
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/bin/Debug/netstandard2.0/PrimeService.pdb
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.vbproj.AssemblyReference.cache
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfoInputs.cache
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.AssemblyInfo.vb
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.vbproj.CoreCompileInputs.cache
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.dll
+/Users/muhammadawais/Desktop/unit-testing-vb-dotnet-test/PrimeService/obj/Debug/netstandard2.0/PrimeService.pdb
